@@ -1,0 +1,17 @@
+{
+  "a2:0e:af:47:bb:6f": {
+    "first_seen": "01:13:26",
+    "rssi": -66,
+    "reason": "deauth flood"
+  },
+  "0e:4e:4a:df:eb:03": {
+    "first_seen": "01:13:36",
+    "rssi": -40,
+    "reason": "deauth flood"
+  },
+  "f3:a2:af:e7:96:c6": {
+    "first_seen": "01:14:24",
+    "rssi": -55,
+    "reason": "deauth flood"
+  }
+}
